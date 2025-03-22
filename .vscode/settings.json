@@ -3,6 +3,7 @@
         "badrequest",
         "buildtransitive",
         "contentfiles",
+        "datepicker",
         "Dtos",
         "occured",
         "servererror",

@@ -1,12 +1,19 @@
+header{
+    background-color: white;
+    
+}
 .cart-no{
     position: absolute;
     min-height: 22px;
     min-width: 22px;
     border-radius: 50%;
-    background: #245336;
+    background: #135952;
     color: white;
     text-align: center;
     top: -15px;
     right: 32px;
 
+}
+.container py-3{
+    background-color: green;
 }

@@ -17,3 +17,19 @@ header{
 .container py-3{
     background-color: green;
 }
+
+a{
+    text-decoration: none;
+    color: rgb(55, 54, 54);
+    
+    &.active {
+        
+        color: #2f6c47;
+        
+
+    }
+}
+
+.logo {
+    cursor: pointer;
+}

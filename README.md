@@ -3,7 +3,7 @@
 A full-stack e-commerce web application built with **ASP.NET Core Web API** (backend) and **Angular** (frontend).  
 This project simulates a real-world shopping platform including product listings, cart handling, user accounts, and admin features.
 
-> 🎯 This project was built while following a structured course on Udemy and is intended as a **portfolio piece** to demonstrate real-world development using modern technologies and patterns.
+> 🎯 This project was developed based on a full-stack e-commerce course on Udemy, with extended features and personalization and is intended as a **portfolio piece** to demonstrate real-world development using modern technologies and patterns.
 
 ---
 

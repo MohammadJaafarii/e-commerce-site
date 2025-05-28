@@ -1,46 +1,55 @@
-# 🛍️ E-Commerce Web Application
+# 🛒 E-Commerce Web Application
 
-A modern, full-stack e-commerce platform built with **ASP.NET Core** for the backend and **Angular** for the frontend. Designed to be clean, responsive, and production-ready — ideal for small to medium online businesses.
+A full-stack e-commerce web application built with **ASP.NET Core Web API** (for backend) and **Angular** (for frontend).  
+This project demonstrates essential e-commerce functionality such as browsing products, managing cart, and handling orders — all within a clean and responsive UI.
 
-> 📌 This project was created as a portfolio-level showcase of my skills in full-stack development using modern web technologies.
+> 📌 This project was developed as a portfolio piece to showcase full-stack web development skills using modern technologies.
 
 ---
 
-## 🌟 Features
+## 📸 Screenshots
 
-- ✅ User authentication & authorization (JWT)
-- 🛒 Product listing, details, and search
-- 🧺 Shopping cart & checkout workflow
-- 📦 Order management
-- 🧑‍💻 Admin panel for product management
-- 🔐 Secure API with token-based access
-- 📈 Responsive design with Angular Material
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🛍️ Shop Page
+![Shop Page](screenshots/shop.png)
+
+### 📄 Product Details
+![Product Details](screenshots/product-details.png)
+
+---
+
+## ✨ Key Features
+
+- 🔐 Secure authentication with JWT (Login / Signup)
+- 📦 Product listing, filtering, and detail view
+- 🛒 Add to cart, view cart, update quantity
+- ✅ Checkout process with order confirmation
+- 📋 Order history and tracking (per user)
+- 🧑‍💼 Admin panel for managing products
+- 📱 Fully responsive UI using Angular Material
 
 ---
 
 ## 🧰 Tech Stack
 
-| Layer        | Technology                  |
-|--------------|------------------------------|
-| Frontend     | Angular 17, Angular Material |
-| Backend      | ASP.NET Core 7 Web API       |
-| Database     | SQL Server / Entity Framework|
-| Auth         | JWT (JSON Web Token)         |
-| Tools        | Visual Studio, VS Code       |
+| Layer       | Technology                             |
+|-------------|-----------------------------------------|
+| Frontend    | Angular 17, Angular Material            |
+| Backend     | ASP.NET Core 7 Web API                  |
+| Database    | SQL Server + Entity Framework Core      |
+| Auth        | JSON Web Token (JWT)                    |
+| Tools       | Visual Studio, VS Code, Postman         |
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Getting Started
 
 ### 🔧 Prerequisites
-- [.NET SDK 7+](https://dotnet.microsoft.com/en-us/download)
+
+- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download)
 - [Node.js 18+](https://nodejs.org/)
-- Angular CLI: `npm install -g @angular/cli`
-
-### 🛠️ Running the App
-
-#### Backend:
-```bash
-cd backend
-dotnet restore
-dotnet run
+- Angular CLI:
+  ```bash
+  npm install -g @angular/cli

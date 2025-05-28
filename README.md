@@ -20,18 +20,6 @@ This project demonstrates essential e-commerce functionality such as browsing pr
 
 ---
 
-## ✨ Key Features
-
-- 🔐 Secure authentication with JWT (Login / Signup)
-- 📦 Product listing, filtering, and detail view
-- 🛒 Add to cart, view cart, update quantity
-- ✅ Checkout process with order confirmation
-- 📋 Order history and tracking (per user)
-- 🧑‍💼 Admin panel for managing products
-- 📱 Fully responsive UI using Angular Material
-
----
-
 ## 🧰 Tech Stack & Tools
 
 | Layer       | Technology                             |

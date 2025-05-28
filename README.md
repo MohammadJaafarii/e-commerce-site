@@ -10,13 +10,13 @@ This project demonstrates essential e-commerce functionality such as browsing pr
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Home Page.png)
+![Home Page](screenshots/Home-Page.png)
 
 ### 🛍️ Shop Page
-![Shop Page](screenshots/Shop Page.png)
+![Shop Page](screenshots/Shop-Page.png)
 
 ### 📄 Product Details
-![Product Details](screenshots/Product Details.png)
+![Product Details](screenshots/Product-Details.png)
 
 ---
 

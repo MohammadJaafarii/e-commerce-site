@@ -64,6 +64,14 @@ cd frontend
 npm install
 ng serve --open
 ```
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it with attribution.
+
+
 
 App will open at: `http://localhost:4200`
 

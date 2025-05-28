@@ -32,15 +32,15 @@ This project demonstrates essential e-commerce functionality such as browsing pr
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
 | Layer       | Technology                             |
 |-------------|-----------------------------------------|
 | Frontend    | Angular 17, Angular Material            |
 | Backend     | ASP.NET Core 7 Web API                  |
 | Database    | SQL Server + Entity Framework Core      |
-| Auth        | JSON Web Token (JWT)                    |
-| Tools       | Visual Studio, VS Code, Postman         |
+| Routing     | Angular Router with **Lazy Loading**    |
+| Dev Tools   | VS Code, Postman                        |
 
 ---
 
@@ -53,3 +53,29 @@ This project demonstrates essential e-commerce functionality such as browsing pr
 - Angular CLI:
   ```bash
   npm install -g @angular/cli
+  ```
+
+---
+
+### ▶️ Run Backend (ASP.NET Core API)
+
+```bash
+cd backend
+dotnet restore
+dotnet run
+```
+
+API will run at: `https://localhost:5001`
+
+---
+
+### ▶️ Run Frontend (Angular)
+
+```bash
+cd frontend
+npm install
+ng serve --open
+```
+
+App will open at: `http://localhost:4200`
+

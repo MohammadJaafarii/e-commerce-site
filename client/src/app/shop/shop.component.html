@@ -1,6 +1,6 @@
 <div class="container">
     <div class="row" *ngIf="types.length>0 && brands.length>0">
-        <section class="col-3">
+        <section class="col-3 sidebar">
 
             <h5 class="mt-3 ms-3">Sort</h5>
             <select class="form-select mb-4" (change)="onSortSelected($event)">
@@ -33,7 +33,7 @@
             </ul>
 
         </section>
-        <section class="col-9">
+        <section class="col-9 main-content">
             <div class="d-flex justify-content-between align-items-center pb-2">
                 <app-paging-header 
                 [totalCount]="totalCount"

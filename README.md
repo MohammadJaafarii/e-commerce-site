@@ -1,22 +1,22 @@
 # 🛒 E-Commerce Web Application
 
-A full-stack e-commerce web application built with **ASP.NET Core Web API** (for backend) and **Angular** (for frontend).  
-This project demonstrates essential e-commerce functionality such as browsing products, managing cart, and handling orders — all within a clean and responsive UI.
+A full-stack e-commerce web application built with **ASP.NET Core Web API** (backend) and **Angular** (frontend).  
+This project simulates a real-world shopping platform including product listings, cart handling, user accounts, and admin features.
 
-> 📌 This project was developed as a portfolio piece to showcase full-stack web development skills using modern technologies.
+> 🎯 This project was developed based on a full-stack e-commerce course on Udemy, with extended features and personalization and is intended as a **portfolio piece** to demonstrate real-world development using modern technologies and patterns.
 
 ---
 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Home Page.png)
+![Home Page](screenshots/Home-Page.png)
 
 ### 🛍️ Shop Page
-![Shop Page](screenshots/Shop Page.png)
+![Shop Page](screenshots/Shop-Page.png)
 
 ### 📄 Product Details
-![Product Details](screenshots/Product Details.png)
+![Product Details](screenshots/Product-Details.png)
 
 ---
 
@@ -64,6 +64,14 @@ cd frontend
 npm install
 ng serve --open
 ```
-
 App will open at: `http://localhost:4200`
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it with attribution.
+
+
 

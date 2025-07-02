@@ -1,0 +1,19 @@
+table.table thead tr th {
+  background-color: #8a9292 !important;
+}
+
+.order-btn-custom {
+  border-color: #0e6b62 !important;
+  color: #ffffff !important;
+  background-color: #0e6b62 !important;
+  font-weight: bold;
+  border-radius: var(--bs-btn-border-radius) !important;
+  
+  display: inline-block;              
+  transition: transform 0.2s ease-in-out;
+}
+
+.order-btn-custom:hover {
+ 
+  transform: scale(1.01);
+}
